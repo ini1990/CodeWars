@@ -1,0 +1,25 @@
+{
+    "name": "ini1912/codewars",
+    "authors": [
+        {
+            "name": "ini1990",
+            "email": "ini1990g@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+          "src/format_duration.php",
+          "src/flatten_and_sort.php",
+          "src/toCamelCase.php",
+          "src/SudokuSolutionValidator.php",
+          "src/SudokuSolver.php"
+        ]
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.2"
+    },
+    "scripts": {
+        "test": "phpunit tests"
+    }
+}
