@@ -12,7 +12,10 @@
           "src/flatten_and_sort.php",
           "src/toCamelCase.php",
           "src/SudokuSolutionValidator.php",
-          "src/SudokuSolver.php"
+          "src/SudokuSolver.php",
+          "src/Snail.php",
+          "src/BattleshipFieldValidator.php",
+          "src/TicTacToeChecker.php"
         ]
     },
     "require": {},
