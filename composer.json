@@ -15,7 +15,10 @@
           "src/SudokuSolver.php",
           "src/Snail.php",
           "src/BattleshipFieldValidator.php",
-          "src/TicTacToeChecker.php"
+          "src/TicTacToeChecker.php",
+          "src/Reject.php",
+          "src/Hashtag.php",
+          "src/FindTheMissing.php"
         ]
     },
     "require": {},
